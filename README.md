@@ -1,16 +1,28 @@
-# health_app_ui
+# 🩺 Health Care UI App
 
-A new Flutter project.
+A beautiful and modern healthcare appointment UI built with Flutter. This UI mimics the design of a medical scheduling platform, including upcoming appointments, nearby doctors, and categorized health services. It uses clean layouts, soft shadows, and iconography for a delightful user experience.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Elegant landing screen with greeting and search
+- Horizontal health categories (Appointment, Hospital, etc.)
+- Featured doctor card with appointment time
+- Scrollable list of nearby doctors
+- Tabbed schedule screen (Upcoming, Complete, Result)
+- Stylish icons using Ionicons
+- Custom fonts using Google Fonts
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://raw.githubusercontent.com/rehmanshafiq/flutter_hive/main/assets/health.png" alt="App Screens" width="600"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+_Design showcases: Home screen, Health Services, Schedule with action buttons_
+
+## 📦 Dependencies
+
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  ionicons: ^0.2.2
+  google_fonts: ^6.2.1
