@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:health_app_ui/pages/widgets/upcoming_card.dart';
 import 'package:ionicons/ionicons.dart';
 
 class HomePage extends StatelessWidget {
@@ -26,8 +27,9 @@ class HomePage extends StatelessWidget {
          ],
        ),
       body: ListView(
-        padding: const EdgeInsets.all(14),
+        padding: const EdgeInsets.all(16),
         children: [
+          UpcomingCard(),
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
