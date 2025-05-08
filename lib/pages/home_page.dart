@@ -36,6 +36,7 @@ class HomePage extends StatelessWidget {
           Text("Health Needs", style: Theme.of(context).textTheme.titleLarge),
           const SizedBox(height: 15),
           HealthNeeds(),
+          Text("Testing Heading", style: Theme.of(context).textTheme.titleLarge),
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
