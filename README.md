@@ -14,7 +14,7 @@ A beautiful and modern healthcare appointment UI built with Flutter. This UI mim
 
 ## 📱 UI Screens
 
-<img src="https://rehmanshafiq/flutter_hive/main/assets/health_app_ui.png" width="600"/>
+<img src="https://raw.githubusercontent.com/rehmanshafiq/flutter_hive/assets/health_app_ui.png" width="600"/>
 
 _Design showcases: Home screen, Health Services, Schedule with action buttons_
 
